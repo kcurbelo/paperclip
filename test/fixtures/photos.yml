@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  photo_data: 2015-02-17
+  user_id: 
+
+two:
+  photo_data: 2015-02-17
+  user_id: 
